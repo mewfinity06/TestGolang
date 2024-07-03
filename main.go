@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mewfinity/golang-test/helloworld"
+	"github.com/mewfinity06/TestGolang/HelloWorld"
 )
 
 func main() {
